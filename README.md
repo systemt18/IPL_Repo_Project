@@ -26,7 +26,7 @@ This notebook is designed for users who wish to explore IPL data, perform advanc
 
 **Architecture**
 
-![Architecture](https://github.com/username/repository/raw/main/docs/images/architecture-diagram.png)
+![Architecture](https://raw.githubusercontent.com/systemt18/IPL_Repo_Project/main/Architecture.png)
 
 
 
