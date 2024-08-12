@@ -30,7 +30,3 @@ This notebook is designed for users who wish to explore IPL data, perform advanc
 
 
 
-**License**
-
-This project is licensed under the MIT License.
-
