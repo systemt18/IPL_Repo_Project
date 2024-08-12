@@ -12,6 +12,8 @@ This project is focused on performing data analysis on Indian Premier League (IP
 
 **Requirements**
 
+•	DataBricks
+
 •	Apache Spark 3.3.2 or later
 
 •	PySpark
@@ -21,6 +23,12 @@ This project is focused on performing data analysis on Indian Premier League (IP
 **Usage**
 
 This notebook is designed for users who wish to explore IPL data, perform advanced queries, and generate insights using Spark. It is ideal for data engineers, analysts, or anyone interested in large-scale sports data analysis.
+
+## Architecture
+
+![Architecture]([https://github.com/username/repository/raw/main/docs/images/architecture-diagram.png](https://github.com/systemt18/IPL_Repo_Project/blob/main/Architecture.png))
+
+
 
 **License**
 
